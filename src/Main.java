@@ -4,7 +4,7 @@ import java.util.List;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("From 15");
+        System.out.printf("From 15345");
         List<Integer> a;
     }
 }
